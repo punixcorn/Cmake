@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/testpotato.dir/main.cxx.o -o /home/potatojs/Desktop/cmake/libaries_turtorial/test2/cpp/bin/testpotato   -L/home/potatojs/Desktop/cmake/libaries_turtorial/test1/cpp/lib  -Wl,-rpath,/home/potatojs/Desktop/cmake/libaries_turtorial/test1/cpp/lib -lpotatomaths 

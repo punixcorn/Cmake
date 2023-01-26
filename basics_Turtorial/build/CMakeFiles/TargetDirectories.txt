@@ -1,0 +1,7 @@
+/home/potatojs/Desktop/cmake/Turtorial/build/CMakeFiles/getSqrt.dir
+/home/potatojs/Desktop/cmake/Turtorial/build/CMakeFiles/edit_cache.dir
+/home/potatojs/Desktop/cmake/Turtorial/build/CMakeFiles/rebuild_cache.dir
+/home/potatojs/Desktop/cmake/Turtorial/build/CMakeFiles/list_install_components.dir
+/home/potatojs/Desktop/cmake/Turtorial/build/CMakeFiles/install.dir
+/home/potatojs/Desktop/cmake/Turtorial/build/CMakeFiles/install/local.dir
+/home/potatojs/Desktop/cmake/Turtorial/build/CMakeFiles/install/strip.dir

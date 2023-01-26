@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/getSqrt.dir/main.cxx.o -o /home/potatojs/Desktop/cmake/Turtorial/bin/getSqrt 

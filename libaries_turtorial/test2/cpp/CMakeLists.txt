@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.13)
+project(testpotato)
+add_executable(${PROJECT_NAME} main.cxx)
+set(EXECUTABLE_OUTPUT_PATH ${CMAKE_SOURCE_DIR}/bin)
+target_link_directories(${PROJECT_NAME} PRIVATE /home/potatojs/Desktop/cmake/libaries_turtorial/test1/cpp/lib)
+target_link_libraries(${PROJECT_NAME} potatomaths)

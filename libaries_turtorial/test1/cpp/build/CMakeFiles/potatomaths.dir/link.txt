@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/potatojs/Desktop/cmake/libaries_turtorial/cpp/lib/libpotatomaths.a CMakeFiles/potatomaths.dir/adder.cxx.o
+/usr/bin/ranlib /home/potatojs/Desktop/cmake/libaries_turtorial/cpp/lib/libpotatomaths.a

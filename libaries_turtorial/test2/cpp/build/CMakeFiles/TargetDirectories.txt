@@ -1,0 +1,3 @@
+/home/potatojs/Desktop/cmake/libaries_turtorial/test2/cpp/build/CMakeFiles/testpotato.dir
+/home/potatojs/Desktop/cmake/libaries_turtorial/test2/cpp/build/CMakeFiles/edit_cache.dir
+/home/potatojs/Desktop/cmake/libaries_turtorial/test2/cpp/build/CMakeFiles/rebuild_cache.dir
